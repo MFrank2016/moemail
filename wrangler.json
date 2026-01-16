@@ -8,14 +8,14 @@
     {
       "binding": "DB",
       "database_name": "moemail",
-      "database_id": "${DATABASE_ID}",
+      "database_id": "362c864a-746b-47ea-8ece-fe00d88a636f",
       "migrations_dir": "drizzle"
     }
   ],
   "kv_namespaces": [
     {
       "binding": "SITE_CONFIG",
-      "id": "${KV_NAMESPACE_ID}"
+      "id": "49e3ad2c6e55477d8fab45cf1c8b725a"
     }
   ]
 }
